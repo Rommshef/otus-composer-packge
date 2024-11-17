@@ -1,0 +1,13 @@
+{
+    "name": "roman-shevtsov/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "RomanShevtsov\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "curl/curl": "^2.5"
+    }
+}
