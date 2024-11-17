@@ -1,6 +1,7 @@
 {
     "name": "roman-shevtsov/otus-composer-package",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "RomanShevtsov\\OtusComposerPackage\\": "src/"

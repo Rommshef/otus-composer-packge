@@ -1,7 +1,8 @@
+# PhpStorm files
+*.iml
 .idea/
-.DS_Store
-.AppleDouble
-.LSOverride
+
+# Project files
 /vendor/
-composer.lock
-index.php
+/composer.lock
+/index.php
